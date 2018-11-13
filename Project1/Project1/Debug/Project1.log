@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+c:\users\leonardo rebello\desktop\project1\project1\myform1.h(223): warning C4101: 'swap': variável local não referenciada
+  MyForm1.cpp
+c:\users\leonardo rebello\desktop\project1\project1\myform1.h(223): warning C4101: 'swap': variável local não referenciada
+  Gerando Código...
+  MyForm.obj : Módulo MSIL encontrado; vínculo incremental está desabilitado para MSIL; executando link completo
+  Project1.vcxproj -> C:\Users\Leonardo Rebello\Desktop\Project1\Debug\Project1.exe
